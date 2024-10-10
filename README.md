@@ -1,4 +1,4 @@
-# Baldi's Basics Classic Remastered
+# Archipelago Manual - Baldi's Basics Classic Remastered
 
 ## Goals
 - Beating All Styles
