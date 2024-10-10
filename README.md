@@ -1,4 +1,4 @@
-# Baldi-s-Basics-Classic-Remastered
+# Baldi's Basics Classic Remastered
 
 ## Goals
 - Beating All Styles
