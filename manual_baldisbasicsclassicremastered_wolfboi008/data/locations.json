@@ -1,0 +1,678 @@
+[
+  {
+    
+		"name": "Principal of the Thing",
+		"category": [
+      "Characters"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Playtime",
+		"category": [
+      "Characters"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Arts and Crafters",
+		"category": [
+      "Characters"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):7| OR (|Party Style Pass| AND |Progressive Notebook (Party):7|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):7|)"
+  },
+  {
+    
+		"name": "It's a Bully",
+		"category": [
+      "Characters"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "1st Prize",
+		"category": [
+      "Characters"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Gotta Sweep",
+		"category": [
+      "Characters"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Cloudy Copter",
+		"category": [
+      "Characters"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "Chalkes",
+		"category": [
+      "Characters"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "Beans",
+		"category": [
+      "Characters"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "BSODA",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Energy Flavored Zesty Bar",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Swinging Door Lock",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Alarm Clock",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Principal's Keys",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Quarter",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "WD-NoSquee",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Safety Scissors",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Dangerous Teleporter",
+		"category": [
+      "Items"
+    ],
+    "region": "Party Style",
+		"requires": "|Quarter| AND |Progressive Notebook (Party):2|"
+  },
+  {
+    
+		"name": "Dirty Chalk Eraser",
+		"category": [
+      "Items"
+    ],
+    "region": "NULL",
+		"requires": []
+  },
+  {
+    
+		"name": "Portal Poster",
+		"category": [
+      "Items"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7| AND |Progressive Bonus Math Machine (Demo):7|"
+  },
+  {
+    
+		"name": "Principal Whistle",
+		"category": [
+      "Items"
+    ],
+    "region": "NULL",
+		"requires": []
+  },
+  {
+    
+		"name": "Faculty Nametag",
+		"category": [
+      "Items"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "Baldi's Least Favorite Tape",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Big Ol' Boots",
+		"category": [
+      "Items"
+    ],
+    "region": "Anywhere",
+		"requires": "(|Classic Style Pass| AND |Progressive Notebook (Classic):2|) OR (|Party Style Pass| AND |Progressive Notebook (Party):2|) OR (|Demo Style Pass| AND |Progressive Notebook (Demo):2|)"
+  },
+  {
+    
+		"name": "Classic Exit 1",
+		"category": [
+      "Classic Exits"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):7|"
+  },
+  {
+    
+		"name": "Classic Exit 2",
+		"category": [
+      "Classic Exits"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):7|"
+  },
+  {
+    
+		"name": "Classic Exit 3",
+		"category": [
+      "Classic Exits"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):7|"
+  },
+  {
+    
+		"name": "Classic Exit 4",
+		"category": [
+      "Classic Exits"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):7|"
+  },
+  {
+    
+		"name": "Classic Escape!",
+		"category": [
+      "Classic Endings"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Exit (Classic):4| AND |Progressive Notebook (Classic):7|"
+  },
+  {
+    
+		"name": "Party Exit 1",
+		"category": [
+      "Party Exits"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):7|"
+  },
+  {
+    
+		"name": "Party Exit 2",
+		"category": [
+      "Party Exits"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):7|"
+  },
+  {
+    
+		"name": "Party Exit 3",
+		"category": [
+      "Party Exits"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):7|"
+  },
+  {
+    
+		"name": "Party Exit 4",
+		"category": [
+      "Party Exits"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):7|"
+  },
+  {
+    
+		"name": "Party Escape!",
+		"category": [
+      "Party Endings"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Exit (Party):4| AND |Progressive Notebook (Party):7|"
+  },
+  {
+    
+		"name": "Demo Exit 1",
+		"category": [
+      "Demo Exits"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Demo Exit 2",
+		"category": [
+      "Demo Exits"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Demo Exit 3",
+		"category": [
+      "Demo Exits"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Demo Exit 4",
+		"category": [
+      "Demo Exits"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Demo Escape!",
+		"category": [
+      "Demo Endings"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Exit (Demo):4| AND |Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Defeat NULL",
+		"victory": true,
+		"category": [
+      "NULL"
+    ],
+    "region": "NULL",
+		"requires": "|Dirty Chalk Eraser|"
+  },
+  {
+    
+		"name": "Notebook 1 (Classic)",
+		"category": [
+      "Classic Notebooks"
+    ],
+    "region": "Classic Style",
+		"requires": []
+  },
+  {
+    
+		"name": "Notebook 2 (Classic)",
+		"category": [
+      "Classic Notebooks"
+    ],
+    "region": "Classic Style",
+		"requires": []
+  },
+  {
+    
+		"name": "Notebook 3 (Classic)",
+		"category": [
+      "Classic Notebooks"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):2|"
+  },
+  {
+
+		"name": "Notebook 4 (Classic)",    
+		"category": [
+      "Classic Notebooks"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):2|"
+  },
+  {
+    
+		"name": "Notebook 5 (Classic)",
+		"category": [
+      "Classic Notebooks"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):2|"
+  },
+  {
+    
+		"name": "Notebook 6 (Classic)",
+		"category": [
+      "Classic Notebooks"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):2|"
+  },
+  {
+    
+		"name": "Notebook 7 (Classic)",
+		"category": [
+      "Classic Notebooks"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):2|"
+  },
+  {
+    
+		"name": "Notebook 1 (Party)",
+		"category": [
+      "Party Notebooks"
+    ],
+    "region": "Party Style",
+		"requires": []
+  },
+  {
+    
+		"name": "Notebook 2 (Party)",
+		"category": [
+      "Party Notebooks"
+    ],
+    "region": "Party Style",
+		"requires": []
+  },
+  {
+    
+		"name": "Notebook 3 (Party)",
+		"category": [
+      "Party Notebooks"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):2|"
+  },
+  {
+    
+		"name": "Notebook 4 (Party)",
+		"category": [
+      "Party Notebooks"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):2|"
+  },
+  {
+    
+		"name": "Notebook 5 (Party)",
+		"category": [
+      "Party Notebooks"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):2|"
+  },
+  {
+    
+		"name": "Notebook 6 (Party)",
+		"category": [
+      "Party Notebooks"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):2|"
+  },
+  {
+    
+		"name": "Notebook 7 (Party)",
+		"category": [
+      "Party Notebooks"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):2|"
+  },
+  {
+    
+		"name": "Notebook 1 (Demo)",
+		"category": [
+      "Demo Notebooks"
+    ],
+    "region": "Demo Style",
+		"requires": []
+  },
+  {
+    
+		"name": "Notebook 2 (Demo)",
+		"category": [
+      "Demo Notebooks"
+    ],
+    "region": "Demo Style",
+		"requires": []
+  },
+  {
+    
+		"name": "Notebook 3 (Demo)",
+    
+		"category": [
+      "Demo Notebooks"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "Notebook 4 (Demo)",
+    
+		"category": [
+      "Demo Notebooks"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "Notebook 5 (Demo)",
+    
+		"category": [
+      "Demo Notebooks"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "Notebook 6 (Demo)",
+    
+		"category": [
+      "Demo Notebooks"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "Notebook 7 (Demo)",
+    
+		"category": [
+      "Demo Notebooks"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):2|"
+  },
+  {
+    
+		"name": "Bonus Math Machine 1 (Demo)",
+    
+		"category": [
+      "Math Machines"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Bonus Math Machine 2 (Demo)",
+    
+		"category": [
+      "Math Machines"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Bonus Math Machine 3 (Demo)",
+    
+		"category": [
+      "Math Machines"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Bonus Math Machine 4 (Demo)",
+    
+		"category": [
+      "Math Machines"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Bonus Math Machine 5 (Demo)",
+    
+		"category": [
+      "Math Machines"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Bonus Math Machine 6 (Demo)",
+    
+		"category": [
+      "Math Machines"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Bonus Math Machine 7 (Demo)",
+    
+		"category": [
+      "Math Machines"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7|"
+  },
+  {
+    
+		"name": "Bad Math",
+    
+		"category": [
+      "Classic Endings"
+    ],
+    "region": "Classic Style",
+		"requires": "|Progressive Notebook (Classic):7| AND |Progressive Exit (Classic):4|"
+  },
+  {
+    
+		"name": "Break the Game",
+    
+		"category": [
+      "Party Endings"
+    ],
+    "region": "Party Style",
+		"requires": "|Progressive Notebook (Party):7| AND |Progressive Exit (Party):4| AND |Dangerous Teleporter|"
+  },
+  {
+    
+		"name": "Secret Basement",
+    
+		"category": [
+      "Demo Endings"
+    ],
+    "region": "Demo Style",
+		"requires": "|Progressive Notebook (Demo):7| AND |Progressive Bonus Math Machine (Demo):7| AND |Portal Poster|"
+  },
+  {
+    
+		"name": "Beat a Style with All Challenges On",
+    
+		"category": [
+      "The Real Challenge"
+    ],
+    "region": "Anywhere",
+		"requires": "{goalAllStyles()}"
+  },
+  {
+    
+		"name": "Beat All Styles",
+    
+		"category": [
+      "All Styles"
+    ],
+    "region": "Anywhere",
+		"requires": "{goalAllStyles()}",
+		"victory": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "BaldisBasicsClassicRemastered",
+  "creator": "WolfBoi008",
+  "filler_item_name": "You Thought Points",
+  "death_link": true,
+  "starting_items": []
+}

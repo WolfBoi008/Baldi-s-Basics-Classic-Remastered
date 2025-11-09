@@ -1,0 +1,26 @@
+{
+  "Free": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Anywhere": {
+		"connects_to": [],  
+		"requires": []
+  },
+  "Classic Style": {
+    "connects_to": [],
+    "requires": "|Classic Style Pass|"
+  },
+  "Party Style": {
+    "connects_to": [],
+    "requires": "|Party Style Pass|"
+  },
+  "Demo Style": {
+    "connects_to": [],
+    "requires": "|Demo Style Pass|"
+  },
+  "NULL": {
+    "connects_to": [],
+    "requires": "{challengeNull()}"
+  }
+}

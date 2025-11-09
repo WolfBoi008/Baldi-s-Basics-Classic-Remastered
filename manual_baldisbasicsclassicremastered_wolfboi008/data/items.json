@@ -1,0 +1,350 @@
+[
+  {
+    
+		"count":  1,
+    
+		"name": "BSODA",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Energy Flavored Zesty Bar",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Swinging Door Lock",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Alarm Clock",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Principal's Keys",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Quarter",
+    
+		"category": [
+      "Progression Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "WD-NoSquee",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Safety Scissors",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Dangerous Teleporter",
+    
+		"category": [
+      "Progression Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Dirty Chalk Eraser",
+    
+		"category": [
+      "Progression Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Portal Poster",
+    
+		"category": [
+      "Progression Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Principal Whistle",
+    
+		"category": [
+      "Filler Items"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Faculty Nametag",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Baldi's Least Favorite Tape",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Big Ol' Boots",
+    
+		"category": [
+      "Useful Items"
+    ],
+    
+		"useful": true
+  },
+  {
+    "count": 1,
+    "name": "Classic Style Pass",
+    "category": [
+      "Passes"
+    ],
+    "progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Party Style Pass",
+    
+		"category": [
+      "Passes"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Demo Style Pass",
+    
+		"category": [
+      "Passes"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": 4,
+    
+		"name": "Progressive Exit (Classic)",
+    
+		"category": [
+      "Exits"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": 4,
+    
+		"name": "Progressive Exit (Party)",
+    
+		"category": [
+      "Exits"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": 4,
+    
+		"name": "Progressive Exit (Demo)",
+    
+		"category": [
+      "Exits"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": 7,
+    
+		"name": "Progressive Notebook (Classic)",
+    
+		"category": [
+      "Notebooks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": 7,
+    
+		"name": "Progressive Notebook (Party)",
+    
+		"category": [
+      "Notebooks"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": 7,
+    
+		"name": "Progressive Notebook (Demo)",
+    
+		"category": [
+      "Notebooks"
+    ],
+    
+		"progression": true
+  },
+  {
+    "count": 7,
+    "name": "Progressive Bonus Math Machine (Demo)",
+    "category": [
+      "Notebooks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Get Caught by Baldi",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Get Caught by Principal",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Get Caught by Arts and Crafters",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Get Caught by Playtime",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unable to Use Items for 30 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unable to Open Doors for 30 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Unable to Run for 30 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  }
+]

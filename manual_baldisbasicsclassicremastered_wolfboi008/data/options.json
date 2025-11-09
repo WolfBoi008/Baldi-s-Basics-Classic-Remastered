@@ -1,0 +1,19 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "Choose your victory condition.\n- Beat All Styles: Beat all 3 Styles in the game.\nNOTE: Alternate endings do NOT count. May be changed in the future.\n- Defeat NULL: Defeat NULL in the game's final challenge.\nWARNING: Is not recommended unless you're really good at the game. This challenge is HARD for a newcomer.\nAs a guide, unlocking the fight against NULL requires you to:\n1. Beat all 3 Styles\n2. Beat a Style with all 3 Challenges Activated\n3. and get the Alternate Ending in each of the 3 Styles.\nDoing all of this will allow you to fight NULL by clicking on Baldi in the Style selection screen. Good luck.",
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+        }
+    }
+}
